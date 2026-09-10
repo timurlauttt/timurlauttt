@@ -1,4 +1,4 @@
-```text
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/cba66626-0060-4f34-a6f3-912a640b9fba" /><img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/847c74f1-4603-425f-a44d-c7177ff3c076" />```text
 timurlauttt@github
 -----------------------------------------------------------------------------------------
 
@@ -20,8 +20,5 @@ timurlauttt@github
   Focus    : Serverless & Automation          Mindset  : Scalability & Clean Code
 -----------------------------------------------------------------------------------------
 ```
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timurlauttt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurlauttt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timurlauttt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/timurlauttt)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timurlauttt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/timurlauttt)
