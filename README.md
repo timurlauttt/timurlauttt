@@ -1,3 +1,4 @@
+```text
 timurlauttt@github
 --------------------------------------------------------------------------------
 
@@ -12,8 +13,9 @@ timurlauttt@github
   Website  : pangestudev.web.id             * HIT E-Tracer (AI-Powered System)
   Email    : hello@pangestudev.web.id       * MIN 2 Banyumas (Midtrans API)
   LinkedIn : /in/uripyogapangestu           * Pancacinta (School Mini LMS)
-  GitHub   : github.com/timurlauttt         * Photobooth website
+  GitHub   : [github.com/timurlauttt](https://github.com/timurlauttt)         * Photobooth website
 
 > WORKFLOW & ENVIRONMENT                  > SYSTEM STATUS & FUEL
   OS       : Fedora Linux                   Uptime   : Highly caffeinated
   Focus    : Serverless & Automation        Mindset  : Scalability & Clean Code
+```
