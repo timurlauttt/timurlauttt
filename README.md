@@ -20,8 +20,7 @@ timurlauttt@github
   Focus    : Serverless & Automation          Mindset  : Scalability & Clean Code
 -----------------------------------------------------------------------------------------
 ```
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timurlauttt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurlauttt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=timurlauttt&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurlauttt&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" alt="Top Languages" />
 </p>
