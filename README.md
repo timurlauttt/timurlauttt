@@ -22,6 +22,6 @@ timurlauttt@github
 ```
 <br>
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=timurlauttt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api?username=timurlauttt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)" height="165" alt="GitHub Stats" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=timurlauttt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api/top-langs/?username=timurlauttt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=timurlauttt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timurlauttt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
