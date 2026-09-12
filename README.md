@@ -1,7 +1,4 @@
 ```yaml
-timurlauttt@github
------------------------------------------------------------------------------------------
-
 > TECH STACK                                > CERTIFICATIONS & ACHIEVEMENTS
   Role     : Junior Full Stack Web Dev.       * Google AI Professional Certificate
   Frontend : React.js, Tailwind CSS v4        * Google Cybersecurity Certificate
@@ -19,4 +16,3 @@ timurlauttt@github
 > WORKFLOW & ENVIRONMENT                    > ENGINEERING FOCUS
   OS       : Linux                            * Full Stack Web Development
   Focus    : Deployment & Automation          * Scalable Systems
------------------------------------------------------------------------------------------
