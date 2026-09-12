@@ -12,10 +12,11 @@ timurlauttt@github
 > CONTACT & LINKS                           > RECENT ENGINEERING PROJECTS
   Website  : pangestudev.web.id               * HIT E-Tracer (AI-Powered System)
   Email    : hello@pangestudev.web.id         * MIN 2 Banyumas (Midtrans API)
-  LinkedIn : /in/uripyogapangestu             * Pancacinta (School Mini LMS)
-  GitHub   : github.com/timurlauttt           * Photobooth Website
+  WhatsApp : +62 858-6146-6287                * Pancacinta (School Mini LMS)
+  LinkedIn : in/urip-yoga-pangestu-65a541231  * Photobooth Website
+  GitHub   : github.com/timurlauttt
 
 > WORKFLOW & ENVIRONMENT                    > ENGINEERING FOCUS
   OS       : Linux                            * Full Stack Web Development
-  Focus    : Deployment & Automation          * Clean Code & Scalable Systems
+  Focus    : Deployment & Automation          * Scalable Systems
 -----------------------------------------------------------------------------------------
